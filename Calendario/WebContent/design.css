@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+div{
+	background: #C0C0FF;
+	position: absolute;
+	
+	height: 300px;
+	width: 500px;
+	
+	margin-top: -150px;
+	margin-left: -250px;
+	
+	top: 50%;
+	left: 50%;
+}
+
+form{
+	font: 20px verdana, arial, helvetica, sans-serif;
+	padding: 5px;
+}
+
+input{
+	font: 20px verdana, arial, helvetica, sans-serif;
+}
+
+select {
+	font: 20px verdana, arial, helvetica, sans-serif;
+}
+
+.textoFormatado{
+	font: 20px verdana, arial, helvetica, sans-serif;
+}
+
+.botoes{
+	margin-left: 150px;
+}
